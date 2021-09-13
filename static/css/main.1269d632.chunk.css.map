@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,EACE,aACF","file":"main.1269d632.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\nP {\n  color: rgb(175, 41, 41);\n}\n"]}
